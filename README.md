@@ -22,4 +22,4 @@ It covers:
 - A wireframed dashboard to support B2B outreach clarity  
 - A reflection on the role of data and empathy in growth strategy
 
-Submitted as part of DeepThought's Growth Analyst hiring challenge.
+
