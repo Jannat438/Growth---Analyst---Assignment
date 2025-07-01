@@ -1,7 +1,7 @@
-# Growth Analyst Assignment – DeepThought
+# Growth Analyst Assignment
 
 Submitted by: Jannat Fatma  
-Role Applied: Growth Analyst – Option 3: Growth Messaging & Personalization
+Role Applied: Growth Analyst
 
 ---
 
